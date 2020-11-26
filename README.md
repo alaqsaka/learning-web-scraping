@@ -38,3 +38,12 @@ Type in Command Prompt
                 print(f"Required Skills: {skills.strip()}")
 
                 print('')
+
+
+### How to scrape for every ten minutes
+    if __name == '__main__':
+        while True: 
+            find_jobs()
+            time_wait = 10
+            print(f'Waiting {time_wait} seconds...')
+            time.sleep(time_wait * 60)
