@@ -53,3 +53,11 @@ Type in Command Prompt
 2. Search the file path
 Then write: python web_scrap.py
 python + your file name.py
+
+
+### How to store the output in separated file format
+    if unfamiliar_skill not in skills:
+            with open(f'posts/{index}.txt', 'w') as f:
+                f.write(f"More Info: {more_info}")
+                f.write(f"Company Name: {company_name.strip()}")
+                f.write(f"Required Skills: {skills.strip()}")
