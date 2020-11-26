@@ -58,7 +58,7 @@ python + your file name.py
 
 Example:
 
-![](images/web_scrap_tutor.png)
+![](image/web_scrap_tutor.png)
 
 ### How to store the output in separated file format
     if unfamiliar_skill not in skills:
