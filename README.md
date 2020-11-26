@@ -56,6 +56,9 @@ Type in Command Prompt
 Then write: python web_scrap.py
 python + your file name.py
 
+Example:
+
+![](images/web_scrap_tutor.png)
 
 ### How to store the output in separated file format
     if unfamiliar_skill not in skills:
