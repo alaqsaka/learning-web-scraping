@@ -47,3 +47,8 @@ Type in Command Prompt
             time_wait = 10
             print(f'Waiting {time_wait} seconds...')
             time.sleep(time_wait * 60)
+
+### How to run the program in cmd
+1. Go to Command Prompt
+2. Search the file path
+Then
