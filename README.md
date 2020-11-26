@@ -66,3 +66,7 @@ Example:
                 f.write(f"More Info: {more_info}")
                 f.write(f"Company Name: {company_name.strip()}")
                 f.write(f"Required Skills: {skills.strip()}")
+
+
+## You can download the source code right here:
+https://github.com/alaqsaka/learning-web-scraping/blob/main/web_scrap.py
