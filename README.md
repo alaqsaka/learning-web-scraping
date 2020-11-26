@@ -51,4 +51,5 @@ Type in Command Prompt
 ### How to run the program in cmd
 1. Go to Command Prompt
 2. Search the file path
-Then
+Then write: python web_scrap.py
+python + your file name.py
